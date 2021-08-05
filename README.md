@@ -1,16 +1,16 @@
 # Virtual-Assistant-Python <br />
 Dissertation project <br />
-Virtual assistant functionalities:
-Greeting the user
-Remeber the user's name
-Communicate its name
-Speaking time information
-Performing web searches:
-Google
-Google Maps
-Wikipedia
-YouTube
-Perform basic mathematical operations
-Tell jokes 
-Play rock, paper, scissor with the user
-Exit the program
+Virtual assistant functionalities:<br />
+Greeting the user<br />
+Remeber the user's name<br />
+Communicate its name<br />
+Speaking time information<br />
+Performing web searches:<br />
+Google<br />
+Google Maps<br />
+Wikipedia<br />
+YouTube<br />
+Perform basic mathematical operations<br />
+Tell jokes <br />
+Play rock, paper, scissor with the user<br />
+Exit the program<br />
